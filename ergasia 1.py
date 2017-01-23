@@ -1,4 +1,5 @@
 #hello professor this is my first excercise on python i hope you like it :D
+#Now at the beginning may i say that python is really great and that i find making programms with python really easy and entertaining thanks for the 6-months of lessons (more like 2 months too bad huh?) 
 #so this is the first input it's a raw_input because it may have words/numbers in it  
 a=raw_input("Vale thn protash gia na vgalo ta thavmastika ") 
 #here i just put the variable a into a list based on every letter it has 
